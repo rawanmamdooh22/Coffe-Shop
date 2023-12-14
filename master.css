@@ -1,0 +1,249 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;
+    background: whitesmoke;
+    height: 100vh;
+    overflow: hidden;
+}
+.center{
+    position:absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 300px;
+    height: 407px;
+    background: white;
+    padding:150px;
+    border-radius: 20px;
+    background-image: url(PIC/Oh\ yes\ coffee3.jpeg) ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ONE{
+    position: relative;
+    text-align: center;
+     background-color: #bd9a72; 
+    width: 599px;
+    left: -69px;
+    top: 15px;
+    height: 183px;
+    border-radius: 20px;
+    margin: -80px;
+    margin-top: 359px;
+}
+.one{
+    position: relative;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    width: 300px;
+    right: 45px;
+    left: 2px;
+    top: 15px;
+}
+.abc{
+    left: 100px;
+    position: absolute;
+}
+ .zero{
+    position: absolute;
+    right: 245px;
+    width: 100px;
+    background-color: wheat;
+    border: none;
+    border-radius: 25px;
+    color: black;
+    padding: 10px;
+    top: 130px;
+}
+a{
+    color: black;
+}
+.three{
+    position:absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 300px;
+    height: 407px;
+    background: white;
+    padding:150px;
+    border-radius: 20px;
+     background-image: url(PIC/Dalgona\ Coffee\ \(Whipped\ Coffee\).jpeg) ;
+    background-position: right bottom;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+ .aa{
+    position: relative;
+    text-align: center;
+     background-color: #bd9a72; 
+    width: 599px;
+    left: -69px;
+    top: 15px;
+    height: 183px;
+    border-radius: 20px;
+    margin: -80px;
+    margin-top: 359px;
+
+ }
+ .singin-header{
+     text-align: center;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: bold; 
+    text-decoration: underline;
+    position: absolute;
+    right: 260px;
+}
+.singin-header span{
+    font-size: 30px;
+
+}
+.input1{
+    position: absolute;
+    padding: 5px;
+    margin: 5px;
+    border: none;
+    right: 220px;
+    top: 30px;
+    box-shadow: 0 0 10px wheat;
+}
+.input2{
+    position: absolute;
+    padding: 5px;
+    margin: 5px;
+    border: none;
+    right: 220px;
+    top: 70px;
+    box-shadow: 0 0 10px wheat;
+
+}
+.check{
+    position: absolute;
+    padding: 3px;
+    right: 350px;
+    bottom: 43px;
+}
+.check-button{
+    background-color: #bd9a72;
+}
+.forget {
+    position: absolute;
+    bottom: 49px;
+    left: 310px;
+    font-size: 16px;
+}
+.input_box{
+    position: absolute;
+    right: 230px;
+    bottom: 25px;
+}
+.four{
+    position: absolute;
+    right: 250px;
+    width: 100px;
+    background-color: wheat;
+    border: none;
+    border-radius: 25px;
+    color: black;
+    padding: 10px;
+    top: 668px;
+}
+a{
+    color: black;
+}
+.position{
+    position:absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 300px;
+    height: 407px;
+    background: white;
+    padding:150px;
+    border-radius: 20px;
+    background-image: url(PIC/ice.jpeg) ;
+    background-position: center bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ee{
+    position: relative;
+    text-align: center;
+     background-color: #bd9a72; 
+    width: 599px;
+    left: -69px;
+    top: 15px;
+    height: 183px;
+    border-radius: 20px;
+    margin: -80px;
+    margin-top: 359px;
+}
+.singup-header{
+    text-align: center;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: bold; 
+    text-decoration: underline;
+    position: absolute;
+    right: 260px;
+}
+
+.singup-header span{
+    font-size: 30px;
+
+}
+.input3{
+    position: absolute;
+    padding: 5px;
+    margin: 5px;
+    border: none;
+    right: 220px;
+    top: 35px;
+    box-shadow: 0 0 10px wheat;
+}
+.input4{
+    position: absolute;
+    padding: 5px;
+    margin: 5px;
+    border: none;
+    right: 220px;
+    top: 71px;
+    box-shadow: 0 0 10px wheat;
+}
+.input5{
+    position: absolute;
+    right: 270px;
+    width: 70px;
+    background-color: wheat;
+    border: none;
+    border-radius: 25px;
+    color: black;
+    padding: 6px;
+    top: 115px;
+    text-decoration: underline;
+}
+hr.new1{
+    border: 1px solid black;
+    position: absolute;
+    top: 146px;
+    width: 300px;
+    left: 140px;
+}
+ .nav a{
+    position: absolute;
+    top:163px;
+    left: 260px;
+    color: black;
+    text-decoration: none;
+ }   
+
+
+    
+  
